@@ -1,0 +1,1 @@
+[{"id":"ab51dc2.008d12","type":"function","z":"286ee19d.1c12ae","name":"httpresponse","func":"msg.payload={\"Jar1\":global.get('length1'),\"Jar2\":global.get('length2'),\"Jar3\":global.get('length3'),\"Leakage\":global.get('leakage')}\nreturn msg;","outputs":1,"noerr":0,"initialize":"","finalize":"","x":530,"y":520,"wires":[["e5c258e.68dc0a8"]]}]
